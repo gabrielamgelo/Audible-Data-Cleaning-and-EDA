@@ -1,5 +1,5 @@
 # Audible Data Cleaning and EDA
-The goal of this project is to clean the data and perform Exploratory Data Analysis on an Audible dataset. The dataset used can be found [here](https://www.kaggle.com/datasets/snehangsude/audible-dataset?select=audible_uncleaned.csv)
+The focus of this project is primarily on data cleaning, and then performing Exploratory Data Analysis on an Audible dataset found on kaggle. The dataset used can be found [here](https://www.kaggle.com/datasets/snehangsude/audible-dataset?select=audible_uncleaned.csv)
 
 ## Technologies Used:
 
@@ -46,9 +46,7 @@ In this step, the data was loaded and explored to find incorrect, mispelled, dup
 
 ![Captura de tela 2025-01-15 202410](https://github.com/user-attachments/assets/6440f39c-e904-49d2-9f07-b62df371bace)
 
-
 ![Captura de tela 2025-01-15 202603](https://github.com/user-attachments/assets/20242650-7c78-4018-a5da-1dcb352672da)
-
 
 **Standardizing the Values in the 'price' Column**
 
@@ -62,5 +60,30 @@ Here we can see that the most common langua for books in this dataset is english
 
 ![Captura de tela 2025-01-15 202830](https://github.com/user-attachments/assets/d76f8dde-7f8e-4b57-b851-d1975bf1a2e3)
 
+**Spread of releases by date**
 
+In this graph we can see the huge spike of book releases on Aubible starting around 2020.
 
+![Captura de tela 2025-01-15 203512](https://github.com/user-attachments/assets/94987611-2b19-4aa5-b09a-b7a19fd2ab47)
+
+**Correlation Between Columns**
+
+No significant correlations between variables are really noticeable. The highest ones are the correlation between author and price (0.21), and price and stars (0.18). 
+
+![Captura de tela 2025-01-15 203632](https://github.com/user-attachments/assets/d3d3550a-19f7-40f9-94b0-33ac33ba1d21)
+
+**Top 20 Books With the Most Ratings**
+
+![Captura de tela 2025-01-15 203714](https://github.com/user-attachments/assets/257d0c30-38ac-4e6a-af47-e598f7572719)
+
+**Top 20 Most Rated Books With 5 Stars**
+
+![Captura de tela 2025-01-15 203752](https://github.com/user-attachments/assets/fba07671-2849-4d0e-aac2-a4cc968535cc)
+
+**Top 10 Authors With the Most Titles**
+
+![Captura de tela 2025-01-15 203914](https://github.com/user-attachments/assets/22633fcd-1c51-4cd8-9a03-b8ec13d950cf)
+
+**Top 10 Authors With the Most 5 Stars Ratings**
+
+![Captura de tela 2025-01-15 203957](https://github.com/user-attachments/assets/f83fdcdc-60de-43e1-9624-2c097ad75e23)
