@@ -74,9 +74,13 @@ No significant correlations between variables are really noticeable. The highest
 
 **Top 20 Books With the Most Ratings**
 
+This graph shows the combination of the books with the highest number of ratings and their ratings in stars. As we can see, the title Atomic Habits has the most and best ratings between all other titles. And then there is Ikigai, which is the opposite, having the most and worst ratings of all titles.
+
 ![Captura de tela 2025-01-15 203714](https://github.com/user-attachments/assets/257d0c30-38ac-4e6a-af47-e598f7572719)
 
 **Top 20 Most Rated Books With 5 Stars**
+
+Here it's shown the the books with the most number of ratings
 
 ![Captura de tela 2025-01-15 203752](https://github.com/user-attachments/assets/fba07671-2849-4d0e-aac2-a4cc968535cc)
 
