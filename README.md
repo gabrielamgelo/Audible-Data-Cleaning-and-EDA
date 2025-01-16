@@ -1,7 +1,7 @@
 # Audible Data Cleaning and EDA
 The focus of this project is primarily on data cleaning, and then performing Exploratory Data Analysis on an Audible dataset found on kaggle. The dataset used can be found [here](https://www.kaggle.com/datasets/snehangsude/audible-dataset?select=audible_uncleaned.csv)
 ___
-# *Here you'll see a simplified overview and explanation of what was done, the full project is available in the accompanying Jupyter Notebooke*.
+## *Here you'll see a simplified overview and explanation of what was done, the full project is available in the accompanying Jupyter Notebooke*.
 
 ## Technologies Used:
 
