@@ -16,7 +16,7 @@ The repository contains:
 
 • audible_uncleaned.csv: The dataset used.
 
-• notebook.ipynb: The jupyter notebook containing the analysis
+• notebook.ipynb: The jupyter notebook containing the full analysis
 
 # OVERVIEW:
 
