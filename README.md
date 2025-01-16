@@ -80,14 +80,18 @@ This graph shows the combination of the books with the highest number of ratings
 
 **Top 20 Most Rated Books With 5 Stars**
 
-Here it's shown the the books with the most number of ratings
+This one shows the books with the most number of 5 star ratings. Atomic Habits is by far the best rated book, followed by Sapiens and harry Potter.
 
 ![Captura de tela 2025-01-15 203752](https://github.com/user-attachments/assets/fba07671-2849-4d0e-aac2-a4cc968535cc)
 
 **Top 10 Authors With the Most Titles**
 
+Here we can see that 矢島雅弘,石橋遊 has the highest number of releases, with 874 books. Attention to Shakespeare in 5th place, having 201 releases, that is due to most of them being different translations and narrations of his books.
+
 ![Captura de tela 2025-01-15 203914](https://github.com/user-attachments/assets/22633fcd-1c51-4cd8-9a03-b8ec13d950cf)
 
 **Top 10 Authors With the Most 5 Stars Ratings**
+
+In this last graph we can see the authors with the most 5 stars ratings, and David Goggins, who is an ex-SEAL and is a motivational speaker/influencer, is in 1st place by a huge margin.
 
 ![Captura de tela 2025-01-15 203957](https://github.com/user-attachments/assets/f83fdcdc-60de-43e1-9624-2c097ad75e23)
