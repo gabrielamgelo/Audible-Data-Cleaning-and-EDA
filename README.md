@@ -1,7 +1,17 @@
 # Audible Data Cleaning and EDA
 Recently I started a new hobbie, reading, and with that, I started listening to audio books, which are very handy when I'm doing something else but still want to practice the hobbie. That got me to think about doing a project based on the subject, and at the same time, I wanted to do a project focused on data cleaning. Then I found the perfect dataset for both things, so I could get some insights on audiobooks from Audible (the main audiobook library) and practice my data cleaning skills! So, the focus of this project is primarily on data cleaning, and then performing Exploratory Data Analysis on an Audible dataset found on kaggle. The dataset used can be found [here](https://www.kaggle.com/datasets/snehangsude/audible-dataset?select=audible_uncleaned.csv).
+
+The main insights:
+- Most columns of the dataset had to be cleaned and needed a lot of work and demanded some level of data mining as well.
+- The most common language for books in this dataset is english, with over 61k books, followed by german, spanish, japanese and italian.
+- There is a huge increase of book releases on Aubible starting around 2020.
+- No significant correlations between variables are noticeable.
+- The title Atomic Habits has the most and best ratings between all other titles.
+- Ikigai has the most and worst ratings of all titles.
+- Atomic Habits is by far the best rated book, followed by Sapiens and harry Potter.
+-  矢島雅弘,石橋遊 has the highest number of releases, with 874 books. Attention to Shakespeare in 5th place, having 201 releases, that is due to most of them being different translations and narrations of his books.
+-  David Goggins, who is an ex-SEAL and is a motivational speaker/influencer, is the author with the most 5 star ratings.
 ___
-### *Here you'll see a simplified overview and explanation of what was done, the full project is available in the accompanying Jupyter Notebooke*.
 
 ## Technologies Used:
 
@@ -58,7 +68,7 @@ In this step, the data was loaded and explored to find incorrect, mispelled, dup
 
 **Top 10 Languages with the Most Books:**
 
-Here we can see that the most common langua for books in this dataset is english, with over 61k books written in english. Portuguese (my native language), is in the 8th spot, with 526 books.
+Here we can see that the most common language for books in this dataset is english, with over 61k books written in english. Portuguese (my native language), is in the 8th spot, with 526 books.
 
 ![Captura de tela 2025-01-15 202830](https://github.com/user-attachments/assets/d76f8dde-7f8e-4b57-b851-d1975bf1a2e3)
 
